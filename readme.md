@@ -2,7 +2,7 @@ This code accompanies the paper [Patient Embeddings in Healthcare and Insurance 
 
 Some data preprocessing code is from https://github.com/xueping/MusaNet
 
-### To run the code
+### To run
 - Check / install the dependencies:
 ```bash
 pip install -r requirements.txt
